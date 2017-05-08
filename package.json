@@ -9,6 +9,9 @@
   },
   "author": "Rocky Ferrer",
   "license": "MIT",
+  "engines": {
+      "node": "6.9.4"
+  },
   "dependencies": {
     "axios": "^0.16.1",
     "express": "^4.15.2",
