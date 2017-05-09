@@ -5,7 +5,7 @@ var About = (props) => {
         <div>
             <h1 className="text-center">About</h1>
             <p>
-                This is a simple weather application built on React
+                This is a simple weather application built on React.
             </p>
             <p>
                 Tools used:
