@@ -2,7 +2,7 @@
 
 A simple weather application developed using React, guided through Andrew Mead's *The Complete React Web App Developer Course* on Udemy
 
-Can be viewed at protected-thicket-89238.herokuapp.com
+Can be viewed at https://protected-thicket-89238.herokuapp.com
 
 #### Tools used:
 
