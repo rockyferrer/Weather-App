@@ -4,7 +4,7 @@ var Footer = React.createClass({
     render: function() {
         return (
             <div id="footer">
-                © 2017 Rocky Ferrer
+                Created by Rocky Ferrer (2017)
             </div>
         );
     }
