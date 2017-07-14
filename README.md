@@ -3,7 +3,7 @@
 A simple weather application developed using React.  
 This app was done for learning purposes to become familiar with React and Webpack.
 
-[Link](https://protected-thicket-89238.herokuapp.com)
+[Link](https://weather-app-rocky.herokuapp.com)
 
 #### Tools used:
 
