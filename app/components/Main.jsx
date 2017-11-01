@@ -1,9 +1,11 @@
 var React = require('react');
 var Nav = require('Nav');
 var Footer = require('Footer');
+var jQueryUI = require('jquery-ui');
 
 var Main = (props) => {
     return (
+
         <div>
             <Nav />
             <div className="row">
