@@ -1,4 +1,4 @@
-var React = require('react');
+var React = require('react'); 
 var Nav = require('Nav');
 var Footer = require('Footer');
 var jQueryUI = require('jquery-ui');
